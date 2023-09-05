@@ -2,9 +2,9 @@ _core:
   default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
 langcode: en
 uuid: 1d1bff39-8145-4d36-9bc7-1c9a9033f606
-name: 'Drush Site-Install'
+name: 'Redon Agglomératon'
 mail: admin@example.com
-slogan: ''
+slogan: 'Make Redon Great Again'
 page:
   403: ''
   404: ''
