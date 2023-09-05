@@ -1,0 +1,19 @@
+uuid: f82d00c2-157e-42c4-a8c8-6cff32fa432c
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_step
+    - node.type.recipe
+id: node.recipe.field_step
+field_name: field_step
+entity_type: node
+bundle: recipe
+label: Step
+description: 'Make each step as simple as you can'
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string
