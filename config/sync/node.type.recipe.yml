@@ -1,0 +1,17 @@
+uuid: c63722b0-113d-4213-a97e-0d167b8ec900
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: Recipe
+type: recipe
+description: "Delicious cooking recipe.\r\nAdd ingredients, and all steps !"
+help: 'Make it easy for beginner'
+new_revision: true
+preview_mode: 1
+display_submitted: true
