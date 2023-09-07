@@ -1,0 +1,5 @@
+name: 'Formation 1'
+type: module
+description: 'Les fondamentaux d&#039;écriture de module'
+package: Custom
+core_version_requirement: ^10

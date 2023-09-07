@@ -1,0 +1,7 @@
+uuid: 789679d7-b067-4e07-a697-bf6012b3b42b
+langcode: en
+status: true
+dependencies: {  }
+name: demo
+label: demo
+effects: {  }

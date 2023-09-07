@@ -19,6 +19,7 @@ module:
   field_ui: 0
   file: 0
   filter: 0
+  formation_1: 0
   help: 0
   history: 0
   image: 0
@@ -31,6 +32,7 @@ module:
   page_cache: 0
   path: 0
   path_alias: 0
+  responsive_image: 0
   search: 0
   shortcut: 0
   system: 0
@@ -47,4 +49,6 @@ module:
 theme:
   olivero: 0
   claro: 0
+  stable9: 0
+  training_theme: 0
 profile: standard

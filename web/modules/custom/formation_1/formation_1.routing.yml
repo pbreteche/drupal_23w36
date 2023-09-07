@@ -1,0 +1,20 @@
+formation_1.route_1:
+  path: '/formation-1'
+  defaults:
+    _controller: Drupal\formation_1\Controller\Formation1Controller::index
+  requirements:
+    _permission: 'access content'
+
+formation_1.route_2:
+  path: '/formation-2'
+  defaults:
+    _controller: Drupal\formation_1\Controller\Formation1Controller::index2
+  requirements:
+    _role: 'authenticated'
+
+formation_1.route_3:
+  path: '/formation-3'
+  defaults:
+    _controller: Drupal\formation_1\Controller\Formation1Controller::index3
+  requirements:
+    _permission: 'access formation 1 content'
